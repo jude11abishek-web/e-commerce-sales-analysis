@@ -1,0 +1,6 @@
+customer_segment,customer_count,avg_spend,avg_days_since_purchase
+Champions,2845,231.06,170
+"At Risk",31702,167.24,422
+"New Customers",31702,164.77,112
+"Loyal Customers",21466,156.80,245
+"Lost Customers",5642,154.89,454
